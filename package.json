@@ -1,0 +1,18 @@
+{
+  "name": "ikeketestwuchengtest",
+  "version": "1.0.2",
+  "description": "Second week test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ikeke"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wucheng818/ikeketestwuchengtest.git"
+    },
+  "author": "wucheng",
+  "license": "ISC"
+}
